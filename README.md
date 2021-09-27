@@ -1,0 +1,1 @@
+# shopify-recently-viewed-products-section
